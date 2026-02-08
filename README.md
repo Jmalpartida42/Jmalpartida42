@@ -44,13 +44,8 @@
     <td valign="top">
       <ul>
         <li>
-          <b><a href="#">Control de Silos (12 Motores)</a></b><br>
-          Diseño de sistema de control con Siemens ET 200SP, cálculos de alimentadores y lógica de seguridad para motores trifásicos.
-        </li>
-        <br>
-        <li>
-          <b><a href="#">Control de Acceso RFID + ESP32</a></b><br>
-          Sistema IoT con pantalla OLED, interfaz táctil y base de datos local (LittleFS) para gestión de usuarios.
+          <b><a href="https://github.com/Jmalpartida42/RFID-reader-implemented-in-ESP32">Control de Acceso RFID + ESP32</a></b><br>
+          Sistema IoT con pantalla OLED y base de datos local (LittleFS) para gestión de usuarios en unidades moviles.
         </li>
       </ul>
     </td>
