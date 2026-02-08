@@ -57,8 +57,8 @@
         </li>
         <br>
         <li>
-          <b><a href="#">Dashboard de Análisis</a></b><br>
-          Visualización de datos clave utilizando Power BI y SQL para inteligencia de negocios.
+          <b><a href="#">Predicción de Fuga de Clientes (Telco Churn)</a></b><br>
+          Análisis estadístico y modelado predictivo. Comparativa entre Random Forest, XGBoost y Red Neuronal, logrando un 78% de Recall en la detección de usuarios en riesgo.
         </li>
       </ul>
     </td>
