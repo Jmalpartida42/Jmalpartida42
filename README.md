@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/[TuUsuarioLinkedIn]](https://www.linkedin.com/in/joseph-alexis-malpartida-candia-0b224227a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlKPIQ6HOSlOE%2BQOxBJiOng%3D%3D)" target="_blank">
+  <a href="[https://www.linkedin.com/in/joseph-alexis-malpartida-candia-0b224227a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlKPIQ6HOSlOE%2BQOxBJiOng%3D%3D]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
