@@ -57,7 +57,7 @@
         </li>
         <br>
         <li>
-          <b><a href="#">Predicción de Fuga de Clientes (Telco Churn)</a></b><br>
+          <b><a href="https://github.com/Jmalpartida42/Telco-Customer-Churn">Predicción de Fuga de Clientes (Telco Churn)</a></b><br>
           Análisis estadístico y modelado predictivo. Comparativa entre Random Forest, XGBoost y Red Neuronal, logrando un 78% de Recall en la detección de usuarios en riesgo.
         </li>
       </ul>
