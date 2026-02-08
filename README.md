@@ -1,10 +1,8 @@
-<h1 align="center">Hola 👋, soy [Tu Nombre]</h1>
-<h3 align="center">Ingeniero Mecatrónico & Entusiasta de los Datos</h3>
+<h1 align="center">Hola 👋, soy Joseph Malpartida</h1>
+<h3 align="center">Ingeniero Mecatrónico apasionado en la Ciencia de Datos</h3>
 
 <p align="center">
-  <a href="https://github.com/[TuUsuario]">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Automatización+Industrial;Data+Science+%26+Analytics;Desarrollo+IoT+%26+Python" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/Jmalpartida42">
 </p>
 
 <p align="center">
