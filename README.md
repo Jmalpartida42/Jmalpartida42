@@ -37,7 +37,7 @@
       <h3>🏭 Automatización Industrial & IoT</h3>
     </td>
     <td align="center" width="50%">
-      <h3>📊 Ciencia de Datos & RPA</h3>
+      <h3>📊 Ciencia de Datos y Visión Artificial</h3>
     </td>
   </tr>
   <tr>
@@ -52,8 +52,8 @@
     <td valign="top">
       <ul>
         <li>
-          <b><a href="#">Automatización RPA con Python</a></b><br>
-          Bots desarrollados con Selenium y Pandas para extracción y procesamiento automático de datos.
+          <b><a href="https://github.com/Jmalpartida42/Potato-quality-classification-deep-learning">Clasificación de Papa Blanca con Visión Artificial</a></b><br>
+          Sistema de visión artificial para la clasificación de papa blanca peruana. Implementa U-Net para la segmentación morfológica (calibre) y ResNet para el análisis de calidad superficial.
         </li>
         <br>
         <li>
