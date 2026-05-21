@@ -37,7 +37,7 @@ Soy un Ingeniero Mecatrónico especializado en el desarrollo e implementación d
       <h3>🏭 Automatización Industrial & IoT</h3>
     </td>
     <td align="center" width="50%">
-      <h3>📊 Ciencia de Datos y Visión Artificial</h3>
+      <h3>📊 Machine Learning</h3>
     </td>
   </tr>
   <tr>
