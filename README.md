@@ -23,8 +23,6 @@ Soy un Ingeniero Mecatrónico especializado en el desarrollo e implementación d
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Data-SQL-lightgrey?style=for-the-badge&logo=postgresql&logoColor=black" />
   <img src="https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/PLC-Siemens-teal?style=for-the-badge&logo=siemens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware-Arduino%2FESP32-red?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
