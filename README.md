@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Soy un profesional con sólidos conocimientos en sistemas electrónicos y control de procesos. Actualmente, estoy enfocado en la automatización de procesos, visualización y ciencia de datos.
+Ingeniero Mecatrónico especializado en el desarrollo e implementación de modelos de Machine Learning. Mi enfoque va más allá del análisis predictivo tradicional; me apasiona diseñar y desplegar soluciones versátiles capaces de procesar e interpretar información en cualquier formato, ya sean datos numéricos, imágenes o texto.
 </p>
 
 <p align="center">
