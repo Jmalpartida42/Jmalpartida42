@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Joseph Malpartida</h1>
-<h3 align="center">Ingeniero Mecatrónico apasionado en ML.</h3>
+<h3 align="center">Ingeniero Mecatrónico </h3>
 
 <p align="center">
   <a href="https://github.com/Jmalpartida42">
